@@ -1,0 +1,21 @@
+
+.colorBox{
+    margin: 10px auto;
+    padding: 20px;
+    color: #fff;
+}
+
+.redBack{
+    background-color: #800000;
+}
+
+
+.blueBack{
+    background-color: #330099;
+}
+
+img{
+    display: block;
+    width: 60%;
+    margin: 10px auto;
+}
